@@ -1,0 +1,31 @@
+@import url("../../../css/mform.css");
+
+.exform_wrapper.exf_callback_popup { font:normal 16px FiraSansItalic; color:#000; /*background:#dceddb; border:2px solid #080;*/ padding:8px 3px;}
+
+.exform_wrapper.exf_callback_popup .exform_header {text-align:center; padding:5px 0; margin:5px; color: green; font-weight:bold; font-size:20px; letter-spacing:-1px;}
+.exform_wrapper.exf_callback_popup .exform_addmsg {text-align:center; font-size:13px; padding:10px;}
+
+.exform_wrapper.exf_callback_popup input[type="text"]:focus, .exform_wrapper.exf_callback_popup textarea:focus {background:#ffd;}
+.exform_wrapper.exf_callback_popup .inpt_wrpr {margin:5px 0 5px -10px; padding:0 10px 20px;}
+.exform_wrapper.exf_callback_popup input[type="text"], 
+.exform_wrapper.exf_callback_popup textarea { border: none; background: #fff; width: 357px;	margin-right: 10px;	padding: 0 25px; color: #000; height: 60px; }
+.exform_wrapper.exf_callback_popup textarea{height:50px; resize:none;}
+
+.exform_wrapper.exf_callback_popup div.err {height:0; float:right; position:relative; left:0; top:11px;}
+
+.exform_wrapper.exf_callback_popup .mf_submit {text-align:center; margin-top:5px;}
+.exform_wrapper.exf_callback_popup .mf_submit input{width:170px!important; margin-left: -8px; font-family: 'FiraSansItalic'; font-size: 14px; color:#fff!important; background:#000; height:60px;}
+
+.exform_wrapper.exf_callback_popup .exf_captcha input[type="text"], .exform_wrapper.exf_callback_popup .captcha_img {float:left;}
+.exform_wrapper.exf_callback_popup .exf_captcha input[type="text"] {width:128px;}
+.exform_wrapper.exf_callback_popup .captcha_img {width:160px; height:34px; margin:2px 0 0 4px;} 
+#mf_captcha_exf_callback_popup {width:160px; border:solid 1px #ccc;}
+.exform_wrapper.exf_callback_popup .exf_captcha a {display:block; width:32px; height:32px; float:right; margin:4px -10px 0 0; background:url(refresh.png);}
+
+.exform_wrapper.exf_callback_popup.finmsg {width:400px; min-height:50px; padding:10px; position:absolute; left:50%; top:50%; margin:-60px 0 0 -200px;}
+.exform_wrapper.exf_callback_popup.finmsg p{text-align:center;}
+
+.exform_wrapper.exf_callback_popup span.close { display:block; width:16px; height:16px; float:right; position:relative; top:-14px; font:bold 18px verdana ;}
+.exform_wrapper.exf_callback_popup span.close:hover {cursor:pointer; top:-12px; color:red;}
+
+.exform_wrapper.exf_callback_popup .mf_submit input:hover{background: none; border: solid 1px #fff;}

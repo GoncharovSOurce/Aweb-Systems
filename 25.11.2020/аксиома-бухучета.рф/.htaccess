@@ -1,0 +1,13 @@
+AddHandler application/x-httpd-php .php .htm .html
+DefaultLanguage ru
+AddDefaultCharset windows-1251
+php_value default_charset "cp1251"
+
+RewriteEngine On
+RewriteCond %{HTTP_HOST} ^www\.(.*) [NC]
+RewriteRule ^(.*)$ http://%1/$1 [R=301,L]
+
+
+#RewriteCond %{HTTP_HOST} http://xn--80aaadupnrr2arka1a5a.xn--p1ai
+#RewriteRule (.*) http://xn----7sbabeyrptt5atla3a7a.xn--p1ai
+

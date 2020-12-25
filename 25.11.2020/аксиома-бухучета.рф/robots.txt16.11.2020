@@ -1,0 +1,16 @@
+User-Agent: Yandex
+Disallow: /*.jpg
+Disallow: /*.png
+Disallow: /katalog/*
+Disallow: /index.html
+Disallow: *faq.php?page=*
+
+User-Agent: *
+Disallow: /*.jpg
+Disallow: /*.png
+Disallow: /katalog/*
+Disallow: /index.html
+Disallow: *faq.php?page=*
+
+
+Sitemap: http://xn----7sbabeyrptt5atla3a7a.xn--p1ai/sitemap.xml

@@ -1,0 +1,47 @@
+Options -Indexes
+AddDefaultCharset utf-8
+
+AddType application/x-httpd-php .php .htm .html .tpl
+
+AddType application/vnd.ms-word.document.macroEnabled.12 .docm
+AddType application/vnd.openxmlformats-officedocument.wordprocessingml.document docx
+AddType application/vnd.openxmlformats-officedocument.wordprocessingml.template dotx
+AddType application/vnd.ms-powerpoint.template.macroEnabled.12 potm
+AddType application/vnd.openxmlformats-officedocument.presentationml.template potx
+AddType application/vnd.ms-powerpoint.addin.macroEnabled.12 ppam
+AddType application/vnd.ms-powerpoint.slideshow.macroEnabled.12 ppsm
+AddType application/vnd.openxmlformats-officedocument.presentationml.slideshow ppsx
+AddType application/vnd.ms-powerpoint.presentation.macroEnabled.12 pptm
+AddType application/vnd.openxmlformats-officedocument.presentationml.presentation pptx
+AddType application/vnd.ms-excel.addin.macroEnabled.12 xlam
+AddType application/vnd.ms-excel.sheet.binary.macroEnabled.12 xlsb
+AddType application/vnd.ms-excel.sheet.macroEnabled.12 xlsm
+AddType application/vnd.openxmlformats-officedocument.spreadsheetml.sheet xlsx
+AddType application/vnd.ms-excel.template.macroEnabled.12 xltm
+AddType application/vnd.openxmlformats-officedocument.spreadsheetml.template xltx
+AddType application/vnd.openxmlformats-officedocument.wordprocessingml.document docx
+AddType application/vnd.openxmlformats-officedocument.spreadsheetml.sheet xlsx 
+
+<IfModule mod_expires.c>
+ExpiresActive On
+ExpiresByType image/gif "access plus 1 years"
+ExpiresByType image/jpeg "access plus 1 years"
+ExpiresByType image/png "access plus 1 years"
+ExpiresByType text/css "access plus 1 months"
+ExpiresByType text/javascript "access plus 1 months"
+ExpiresByType application/x-javascript "access plus 1 months"
+</IfModule>
+
+
+
+
+RewriteEngine on
+
+ErrorDocument 404 /404.php
+
+RewriteCond %{HTTP_HOST} !^www.
+RewriteRule (.*) http://www.%{HTTP_HOST}/$1 [R=301,L]
+
+#RewriteCond $1 !^(index\.php|rules\.php|upload|promo|promo/styles|promo/js|promo/img|images|css|bootstrap|colorbox|assets|adm/img|adm/js|adm/admin|adm/styles|img|upload|js|styles|captcha|robots\.txt|sitemap\.xml) [NC]
+#RewriteRule ^(.*)$ /index.php/$1 [L]
+#RewriteRule ^(.*)$ index.php?$1 [L]

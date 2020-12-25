@@ -1,0 +1,572 @@
+<?
+if($_SERVER['SERVER_NAME'] == 'аксиомабухучета.рф')
+header("Location: http://аксиома-бухучета.рф");
+
+?>
+<html>
+<head>
+<title>ÎÎÎ Àêñèîìà Áóõó÷åòà. Áóõãàëòåðñêèå óñëóãè, âåäåíèå áóõãàëòåðñêîãî ó÷åòà ÎÎÎ, ÈÏ.</title>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1251">
+<meta http-equiv="Content-Language" content="ru">
+<link rel="shortcut icon" href="http://xn----7sbabeyrptt5atla3a7a.xn--p1ai/favicon.ico" type="image/x-icon">
+<meta name="description" content="ÎÎÎ Àêñèîìà Áóõó÷åòà. Áóõãàëòåðñêèå óñëóãè, âåäåíèå áóõãàëòåðñêîãî ó÷åòà ÎÎÎ, ÈÏ. Êîíñóëüòàöèè áóõãàëòåðà. Ðåãèñòðàöèÿ îðãàíèçàöèé è ÈÏ.">
+<meta name="keywords" content="Àêñèîìà Áóõó÷åòà, áóõãàëòåðñêèå óñëóãè, âåäåíèå áóõãàëòåðñêèé ó÷åò ÎÎÎ ÈÏ, êîíñóëüòàöèÿ áóõãàëòåðà êàëåíäàðü, îðãàíèçàöèé áóõãàëòåðñêîå ñîïðîâîæäåíèå èíäèâèäóàëüíûõ ïðåäïðèíèìàòåëåé, ÈÏ ðåãèñòðàöèÿ ÎÎÎ ôèðì.">
+<meta name="resource-type" content="document">
+<meta name="robots" content="all">
+<meta name="rating" content="general">
+<meta name="distribution" content="global">
+<meta name="revisit" content="10 days">
+<meta name="copyright" content="asbu">
+<link rel="stylesheet" href="src/style_main.css">
+</head>
+<body leftmargin="0" topmargin="0" rightmargin="0" bottommargin="0">
+<table border="0" width="999" cellspacing="0" cellpadding="0" align="center" style="background-color: #FFFFFF">
+  <th>
+    <td><table width="998" height="54" border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td width="1%" height="54"><!-- Rating@Mail.ru counter -->
+<script type="text/javascript">
+var _tmr = _tmr || [];
+_tmr.push({id: "2523513", type: "pageView", start: (new Date()).getTime()});
+(function (d, w) {
+   var ts = d.createElement("script"); ts.type = "text/javascript"; ts.async = true;
+   ts.src = (d.location.protocol == "https:" ? "https:" : "http:") + "//top-fwz1.mail.ru/js/code.js";
+   var f = function () {var s = d.getElementsByTagName("script")[0]; s.parentNode.insertBefore(ts, s);};
+   if (w.opera == "[object Opera]") { d.addEventListener("DOMContentLoaded", f, false); } else { f(); }
+})(document, window);
+</script><noscript><div style="position:absolute;left:-10000px;">
+<img src="//top-fwz1.mail.ru/counter?id=2523513;js=na" style="border:0;" height="1" width="1" alt="Ðåéòèíã@Mail.ru" />
+</div></noscript>
+<!-- //Rating@Mail.ru counter --></td>
+            <td width="29%"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+              <tr>
+                <td span class="tel">8 (499) 641-02-72</td>
+              </tr>
+            </table></td>
+            <td width="13%"><div align="left"><a href="index.html" class="menu">ÃËÀÂÍÀß</a></div></td>
+            <td width="13%"><div align="left"><a href="company/company.html" class="menu">Î ÊÎÌÏÀÍÈÈ</a></div></td>
+            <td width="18%"><div align="center"><a href="reclama/reclama.html" class="menu">ÑÊÈÄÊÈ / ÀÊÖÈÈ </a></div></td>
+            <td width="13%"><div align="right"><a href="partners/partners.html" class="menu">ÏÀÐÒÍÅÐÛ</a></div></td>
+            <td width="13%"><div align="right"><a href="company/contakt.html" class="menu">ÊÎÍÒÀÊÒÛ</a></div></td>
+          </tr>
+        </table></td>
+  </tr>
+  <tr>
+    <td><table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <tr>
+        <td width="300" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td>&nbsp;</td>
+            <td height="10">&nbsp;</td>
+          </tr>
+          <tr>
+            <td width="3%">&nbsp;</td>
+            <td width="97%" height="83"><div align="center"><a href="index.html"><img src="pig/logo_asbu2.gif" width="100" height="100" border="0" alt="Êîìïàíèÿ “Àêñèîìà Áóõó÷åòà” ïðåäëàãàåò øèðîêèé ñïåêòð êà÷åñòâåííûõ áóõãàëòåðñêèõ è þðèäè÷åñêèõ óñëóã." title="Êîìïàíèÿ “Àêñèîìà Áóõó÷åòà” ïðåäëàãàåò øèðîêèé ñïåêòð êà÷åñòâåííûõ áóõãàëòåðñêèõ è þðèäè÷åñêèõ óñëóã."></a></div></td>
+            </tr>
+          <tr>
+            <td>&nbsp;</td>
+            <td height="67"><img src="pig/logo_asbu2.jpg" width="270" height="45"></td>
+            </tr>
+        </table></td>
+        <td width="344" height="200" align="right" valign="top" background="pig/buh_uslugi.jpg"><table width="80%" border="0" cellspacing="0" cellpadding="0">
+    <tr>
+      <td width="5%" height="10">&nbsp;</td>
+      <td width="95%">&nbsp;</td>
+    </tr>
+    <tr>
+    <td height="30" colspan="2"><div align="left"><a href="buh_services/buh_services.html" class="m1"><strong>ÁÓÕÃÀËÒÅÐÑÊÈÅ ÓÑËÓÃÈ:</strong></a></div></td>
+    </tr>
+  <tr>
+    <td height="35" valign="top"><img src="pig/kn.gif" width="10" height="35"></td>
+    <td><a href="buh_services/buh_services1.html" class="m1"><strong>áóõãàëòåðñêèé ó÷åò ÎÎÎ</strong></a></td>
+  </tr>
+  <tr>
+    <td height="35" valign="top"><img src="pig/kn.gif" width="10" height="35"></td>
+    <td><a href="buh_services/buh_services2.html" class="m1"><strong>áóõãàëòåðñêèé ó÷åò ÈÏ</strong></a></td>
+  </tr>
+  <tr>
+    <td height="35" valign="top"><img src="pig/kn.gif" width="11" height="35"></td>
+    <td rowspan="2"><a href="buh_services/buh_services3.html" class="m1"><strong>íóëåâàÿ îò÷åòíîñòü ÈÏ è ÎÎÎ</strong></a></td>
+  </tr>
+</table></td>
+        <td width="9">&nbsp;</td>
+        <td width="345" height="200" align="right" valign="top" background="pig/yur_uslugi.jpg"><table width="70%" border="0" cellspacing="0" cellpadding="0">
+    <tr>
+      <td width="6%" height="10">&nbsp;</td>
+      <td width="94%">&nbsp;</td>
+    </tr>
+    <tr>
+    <td height="30" colspan="2"><div align="left"><a href="legal_services/legal_services.html" class="m3"><strong>ÞÐÈÄÈ×ÅÑÊÈÅ ÓÑËÓÃÈ:</strong></a></div></td>
+    </tr>
+  <tr>
+    <td height="19"><img src="pig/kn2.gif" width="10" height="19"></td>
+    <td><a href="legal_services/legal_services1.html" class="m2"><strong>ðåãèñòðàöèÿ ÎÎÎ</strong></a></td>
+  </tr>
+  <tr>
+    <td height="19"><img src="pig/kn2.gif" width="10" height="19"></td>
+    <td><a href="legal_services/legal_services2.html" class="m2"><strong>ðåãèñòðàöèÿ ÎÀÎ</strong></a></td>
+  </tr>
+  <tr>
+    <td height="19"><img src="pig/kn2.gif" width="10" height="19"></td>
+    <td><a href="legal_services/legal_services3.html" class="m2"><strong>ðåãèñòðàöèÿ ÇÀÎ</strong></a></td>
+  </tr>
+  <tr>
+    <td height="19"><img src="pig/kn2.gif" width="10" height="19"></td>
+    <td><a href="legal_services/legal_services4.html" class="m2"><strong>ðåãèñòðàöèÿ ÈÏ</strong></a> </td>
+  </tr>
+  <tr>
+    <td height="19"><img src="pig/kn2.gif" width="10" height="19"></td>
+    <td><a href="legal_services/legal_services5.html" class="m2"><strong>ëèêâèäàöèÿ îðãàíèçàöèè</strong></a></td>
+  </tr>
+  <tr>
+    <td height="19"><img src="pig/kn2.gif" width="10" height="19"></td>
+    <td><a href="legal_services/legal_services6.html" class="m2"><strong>ãîòîâûå ôèðìû</strong></a></td>
+  </tr>
+  <tr>
+    <td height="19"><img src="pig/kn2.gif" width="10" height="19"></td>
+    <td><a href="legal_services/legal_services7.html" class="m2"><strong>âíåñåíèå èçìåíåíèé</strong></a></td>
+  </tr>
+</table></td>
+      </tr>
+    </table></td>
+  </tr>
+  <tr>
+    <td valign="top"><img src="pig/line.jpg" width="998" height="20"></td>
+  </tr>
+  <tr>
+    <td><table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <tr>
+        <td width="25%" valign="top"><table width="57%" border="0" align="center" cellpadding="0" cellspacing="0">
+              <tr>
+                <td width="28%"><a href="feedback/feedback.html"><img src="pig/callme.jpg" width="40" height="42" border="0"></a></td>
+                <td width="72%"><h2 align="center"><a href="feedback/feedback.html" class="ssylka_h2">ÎÁÐÀÒÍÛÉ<br>çâîíîê </a></h2></td>
+              </tr>
+          </table></td>
+        <td width="25%" height="66" valign="top"><table width="60%" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td width="27%"><a href="calendar_accountant/calendar_accountant.html"><img src="pig/calendar.gif" width="40" height="42" border="0" alt="Êàäåíäàðü áóõãàëòåðà." title="Êàäåíäàðü áóõãàëòåðà."></a></td>
+    <td width="73%"><h1 align="center"><a href="calendar_accountant/calendar_accountant.html" class="ssylka_h1">ÊÀËÅÍÄÀÐÜ<br>áóõãàëòåðà</a></h1></td>
+  </tr>
+</table></td>
+        <td width="25%" valign="top"><table width="73%" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td><a href="consultations/consultations.html"><img src="pig/consyl.gif" width="40" height="42" border="0" alt="Êîíñóëüòàöèè áóõãàëòåðà." title="Êîíñóëüòàöèè áóõãàëòåðà."></a></td>
+    <td><h1 align="center"><a href="consultations/consultations.html" class="ssylka_h1">ÊÎÍÑÓËÜÒÀÖÈß<br>
+          áóõãàëòåðà</a></h1></td>
+  </tr>
+</table></td>
+        <td width="25%" valign="top"><table width="75%" border="0" align="center" cellpadding="0" cellspacing="0">
+          <tr>
+            <td><a href="accounting_software/accounting_software.html"><img src="pig/buh_soft.gif" width="40" height="42" border="0" alt="Áóõãàëòåðñêèå ïðîãðàììû." title="Áóõãàëòåðñêèå ïðîãðàììû."></a></td>
+            <td><h1 align="center"><a href="accounting_software/accounting_software.html" class="ssylka_h1">ÁÓÕÃÀËÒÅÐÑÊÈÅ<br>
+          ïðîãðàììû</a></h1></td>
+          </tr>
+        </table></td>
+      </tr>
+    </table></td>
+  </tr>
+  <tr>
+    <td><table width="998" border="0" cellspacing="0" cellpadding="0" bgcolor="#6097cf">
+      <tr height="7">
+        <td width="300">&nbsp;</td>
+        <td width="350">&nbsp;</td>
+        <td width="348">&nbsp;</td>
+      </tr>
+      <tr>
+        <td colspan="3" valign="top"><table width="997" border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td width="10">&nbsp;</td>
+            <td width="11" valign="top" bgcolor="#ffffff"><img src="pig/n_left.gif" width="11" height="10"></td>
+            <td width="270" bgcolor="#FFFFFF"><h1><a href="news/news.html" class="ssylka_h1">ÍÎÂÎÑÒÈ</a> / <a href="reclama/reclama.html" class="ssylka_h1">ÑÊÈÄÊÈ / ÀÊÖÈÈ </a></h1></td>
+            <td width="11" align="right" valign="top" bgcolor="#ffffff"><img src="pig/n_right.gif" width="11" height="10"></td>
+            <td width="10">&nbsp;</td>
+            <td width="11" valign="top" bgcolor="#ffffff"><img src="pig/n_left.gif" width="11" height="10"></td>
+            <td width="314" bgcolor="#FFFFFF"><h1>ÊÎÌÏÀÍÈß ÀÊÑÈÎÌÀ ÁÓÕÓ×ÅÒÀ</h1></td>
+            <td width="11" valign="top" bgcolor="#ffffff"><img src="pig/n_right.gif" width="11" height="10"></td>
+            <td width="10">&nbsp;</td>
+            <td width="11" valign="top" bgcolor="#ffffff"><img src="pig/n_left.gif" width="11" height="10"></td>
+            <td width="307" bgcolor="#FFFFFF"><h1>ÀÓÒÑÎÐÑÈÍÃ</h1></td>
+            <td width="11" valign="top" bgcolor="#ffffff"><img src="pig/n_right.gif" width="11" height="10"></td>
+            <td width="10">&nbsp;</td>
+          </tr>
+          <tr>
+            <td>&nbsp;</td>
+            <td colspan="3" rowspan="13" valign="top" bgcolor="#ffffff"><table width="290" border="0" align="center" cellpadding="0" cellspacing="0" bgcolor="#FFFFFF">
+			  <tr>
+            <td width="4%">&nbsp;</td>
+            <td width="92%">
+              <h3>Ýëåêòðîííûå òðóäîâûå êíèæêè</h3>
+              <p>Ïðèíÿòû â ïåðâîì ÷òåíèè çàêîíîïðîåêòû, íàïðàâëåííûå íà âåäåíèå òðóäîâîé äåÿòåëüíîñòè â ýëåêòðîííîì âèäå... </p>
+              <p align="right"><a href="news/news117.html">ñì. ïîäðîáíåå &#187; </a></p></td>
+            <td width="4%">&nbsp;</td>
+          </tr>
+			  <tr>
+            <td width="4%">&nbsp;</td>
+            <td width="92%">
+              <h3>Îò÷åòíîñòü ïî ôîðìå ÑÇÂ-Ì</h3>
+              <p>Îïðåäåëåíèå ÂÑ ÐÔ â ïîëüçó ñòðàõîâàòåëÿ... </p>
+              <p align="right"><a href="news/news109.html">ñì. ïîäðîáíåå &#187; </a></p></td>
+            <td width="4%">&nbsp;</td>
+          </tr>
+			  <tr>
+            <td width="4%">&nbsp;</td>
+            <td width="92%">
+              <h3>Íîâàÿ îáÿçàííîñòü þðèäè÷åñêèõ ëèö</h3>
+			  <p>Øòðàô 20% çà íå ïðåäîñòàâëåíèå óâåäîìëåíèÿ î ïðèîáðåòåíèè çåìåëüíîãî ó÷àñòêè èëè òðàíñïîðòíîãî ñðåäñòâà... </p>
+              <p align="right"><a href="news/news110.html">ñì. ïîäðîáíåå &#187; </a></p></td>
+            <td width="4%">&nbsp;</td>
+          </tr>
+				<tr>
+            <td width="4%">&nbsp;</td>
+            <td width="92%">
+              <h3>Íîâûå ñðîêè  2-ÍÄÔË è 6-ÍÄÔË</h3>
+              <p>Íîâûå  ñðîêè ñäà÷è 2-ÍÄÔË è 6-ÍÄÔË äëÿ íàëîãîâûõ  àãåíòîâ ñ 01.01.2020 ã.... </p>
+              <p align="right"><a href="news/news111.html">ñì. ïîäðîáíåå &#187; </a></p></td>
+            <td width="4%">&nbsp;</td>
+          </tr>
+				<tr>
+            <td width="4%">&nbsp;</td>
+            <td width="92%">
+              <h3>ÍÄÑ: èçìåíåíèÿ </h3>
+              <p>Íîâûé ïîðÿäîê îñâîáîæäåíèÿ îò ÍÄÑ ïðè ïåðåäà÷å òîâàðîâ, ðàáîò èëè óñëóã  â ðàìêàõ áëàãîòâîðèòåëüíîñòè... </p>
+              <p align="right"><a href="news/news.html">ñì. ïîäðîáíåå &#187; </a></p></td>
+            <td width="4%">&nbsp;</td>
+          </tr>
+          </table>
+            <table width="290" border="0" align="center" cellpadding="0" cellspacing="0" bgcolor="#FFFFFF" >
+          <tr>
+            <td width="4%">&nbsp;</td>
+            <td width="92%" height="290" background="pig/foto.jpg"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+              <tr>
+                <td height="161">&nbsp;</td>
+              </tr>
+              <tr>
+                <td width="295" height="75" background="pig/foto_f.jpg"><div align="center"><a href="faq/faq.php" class="ssylka_h1"><strong>ÂÎÏÐÎÑÛ / ÎÒÂÅÒÛ</strong></a></div></td>
+              </tr>
+            </table></td>
+            <td width="4%">&nbsp;</td>
+          </tr>
+          </table></td>
+            <td>&nbsp;</td>
+            <td colspan="3" rowspan="13" valign="top" bgcolor="#FFFFFF"><table width="335" border="0" align="center" cellpadding="0" cellspacing="0" bgcolor="#FFFFFF">
+          <tr>
+            <td width="4%" height="58">&nbsp;</td>
+            <td width="93%" align="justify"><p>Êîìïàíèÿ “Àêñèîìà Áóõó÷åòà” ïðåäëàãàåò øèðîêèé ñïåêòð êà÷åñòâåííûõ áóõãàëòåðñêèõ è þðèäè÷åñêèõ óñëóã.</p>
+              <p>“Àêñèîìà Áóõó÷åòà” ÿâëÿåìñÿ <strong>îôèöèàëüíûì ïàðòíåðîì «1Ñ:ÁóõÎáñëóæèâàíèå»</strong>.</p></td>
+            <td width="3%">&nbsp;</td>
+          </tr>
+          <tr>
+            <td height="110">&nbsp;</td>
+            <td align="center" valign="middle"><a href="company/company_1c.html"><img src="pig/logo_1cbo.png" width="270" height="80" border="0" alt="Êîìïàíèÿ Àêñèîìà Áóõó÷åòà îôèöèàëüíûé ïàðòíåð «1Ñ:ÁóõÎáñëóæèâàíèå»." title="Êîìïàíèÿ Àêñèîìà Áóõó÷åòà îôèöèàëüíûé ïàðòíåð «1Ñ:ÁóõÎáñëóæèâàíèå»."></a></td>
+            <td>&nbsp;</td>
+          </tr>
+          <tr>
+            <td height="45">&nbsp;</td>
+            <td><h3>Îñíîâíûå íàïðàâëåíèÿ íàøåé ðàáîòû:</h3></td>
+            <td>&nbsp;</td>
+          </tr>
+          <tr>
+            <td height="483" colspan="2" valign="top"><ul>
+              <li>
+                <div align="left">Ïîëíîå áóõãàëòåðñêîå ñîïðîâîæäåíèå    îðãàíèçàöèé è èíäèâèäóàëüíûõ ïðåäïðèíèìàòåëåé.                </div>
+              </li><br>
+                <li>
+                  <div align="left">Ðåãèñòðàöèÿ, ïåðåðåãèñòðàöèÿ è ëèêâèäàöèÿ îðãàíèçàöèé ëþáûõ ôîðì ñîáñòâåííîñòè.                    </div>
+                </li><br>
+                <li>
+                  <div align="left">Áóõãàëòåðñêèé êîíñàëòèíã.                    </div>
+                </li><br>
+                <li>
+                  <div align="left">Âîññòàíîâëåíèå áóõãàëòåðñêîãî ó÷åòà ïðè åãî óòðàòå èëè ïîëíîì îòñóòñòâèè.                    </div>
+                </li><br>
+                <li>
+                  <div align="left">Ïîìîùü â ðàçðåøåíèè íàëîãîâûõ ñïîðîâ,  ïîìîùü â ñóäåáíîì ðåøåíèè ñïîðíûõ âîïðîñîâ.</div>
+                </li> <br>
+                <li>
+                  <div align="left">Êàäðîâûé ó÷åò.                    </div>
+                </li><br>
+                <li>
+                  <div align="left">Êîìïëåêñíûå óñëóãè ïî ïîäãîòîâêå/ñäà÷å åæåêâàðòàëüíîé îò÷åòíîñòè.                    </div>
+                </li><br>
+                <li>
+                  <div align="left">Ïðîôåññèîíàëüíîå áóõãàëòåðñêîå îáñëóæèâàíèå îðãàíèçàöèé ñ ðàçíîé ôîðìîé ñîáñòâåííîñòè.                    </div>
+                </li><br>
+                <li>
+                  <div align="left">Áóõãàëòåðñêèå óñëóãè â ðåæèìå îí-ëàéí.                    </div>
+                </li><br>
+                <li>
+                  <div align="left">Ëè÷íûå êîíñóëüòàöèè.                    </div>
+                </li><br>
+                <li>
+                  <div align="left">Èííîâàöèîííûå òåõíîëîãèè â  àóòñîðñèíãå.</div>
+                </li>
+            </ul></td>
+            <td>&nbsp;</td>
+          </tr>
+          </table>
+            <table width="80%" border="0" align="center" cellpadding="0" cellspacing="0">
+              <tr>
+                <td width="22%"><a href="info/info.html"><img src="pig/info1.gif" width="40" height="42" border="0" alt="Ïîìîùü áóõãàëòåðó." title="Ïîìîùü áóõãàëòåðó."></a></td>
+                <td width="78%"><h1 align="left"><a href="info/info.html" class="ssylka_h1">Ïîìîùü áóõãàëòåðó</a></h1></td>
+              </tr>
+            </table></td>
+            <td>&nbsp;</td>
+            <td bgcolor="#ffffff" height="102">&nbsp;</td>
+            <td valign="top" bgcolor="#ffffff"><div align="justify">Àóòñîðñèíã (ñ àíãë. &quot;out source&quot; – âíåøíèé ðåñóðñ) ïîäðàçóìåâàåò ïðèâëå÷åíèå ñòîðîííèõ ñïåöèàëèñòîâ äëÿ âûïîëíåíèÿ îïðåäåëåííûõ çàäà÷, íåîáõîäèìûõ äëÿ îáåñïå÷åíèÿ îïòèìàëüíîé äåÿòåëüíîñòè ïðåäïðèÿòèÿ <a href="company/company.html">&#187;&#187;&#187; </a></div></td>
+            <td bgcolor="#ffffff">&nbsp;</td>
+            <td>&nbsp;</td>
+          </tr>
+          <tr>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td bgcolor="#FFFFFF" valign="bottom"><img src="pig/n_left2.gif" width="11" height="10"></td>
+            <td bgcolor="#FFFFFF">&nbsp;</td>
+            <td bgcolor="#FFFFFF" valign="bottom"><img src="pig/n_right2.gif" width="11" height="10"></td>
+            <td>&nbsp;</td>
+          </tr>
+          <tr>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+          </tr>
+          <tr>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+                        <td width="11" valign="top" bgcolor="#ffffff"><img src="pig/n_left.gif" width="11" height="10"></td>
+            <td width="307" bgcolor="#FFFFFF"><h1>ÁÓÕÃÀËÒÅÐÑÊÈÅ ÓÑËÓÃÈ ÎÍ-ËÀÉÍ</h1></td>
+            <td width="11" valign="top" bgcolor="#ffffff"><img src="pig/n_right.gif" width="11" height="10"></td>
+
+            <td>&nbsp;</td>
+          </tr>
+          <tr>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td bgcolor="#ffffff" height="102">&nbsp;</td>
+            <td valign="top" bgcolor="#ffffff"><div align="justify">Çàêðåïëåííûé çà ïðåäïðèÿòèåì áóõãàëòåð âñåãäà äîñòóïåí â ðåæèìå îí-ëàéí. Ëè÷íûå êîíñóëüòàöèè è âñòðå÷è ñ íèì – òàê æå îáÿçàòåëüíàÿ ÷àñòü ñîòðóäíè÷åñòâà. Ãëàâíûì  ïðåèìóùåñòâîì ñîòðóäíè÷åñòâà ñ íàìè ÿâëÿåòñÿ âîçìîæíîñòü ðàáîòàòü èç ëþáîé  òî÷êè çåìíîãî øàðà, èìåòü êðóãëîñóòî÷íûé äîñòóï ê ñâîèì áàçàì äàííûõ. <a href="accounting_software/accounting_software.html">&#187;&#187;&#187; </a></div></td>
+            <td bgcolor="#ffffff">&nbsp;</td>
+            <td>&nbsp;</td>
+          </tr>
+          <tr>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td bgcolor="#FFFFFF" valign="bottom"><img src="pig/n_left2.gif" width="11" height="10"></td>
+            <td bgcolor="#FFFFFF">&nbsp;</td>
+            <td bgcolor="#FFFFFF" valign="bottom"><img src="pig/n_right2.gif" width="11" height="10"></td>
+            <td>&nbsp;</td>
+          </tr>
+          <tr>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+          </tr>
+          <tr>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+                        <td width="11" valign="top" bgcolor="#ffffff"><img src="pig/n_left.gif" width="11" height="10"></td>
+            <td width="307" bgcolor="#FFFFFF"><h1>ÑÎÂÐÅÌÅÍÍÛÅ  IT -ÒÅÕÍÎËÎÃÈÈ</h1></td>
+            <td width="11" valign="top" bgcolor="#ffffff"><img src="pig/n_right.gif" width="11" height="10"></td>
+
+            <td>&nbsp;</td>
+          </tr>
+          <tr>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td bgcolor="#ffffff" height="102">&nbsp;</td>
+            <td valign="top" bgcolor="#ffffff"><div align="justify">Îáñëóæèâàíèå ïîñòðîåíî íà èñïîëüçîâàíèè ñîâðåìåííûõ òåõíîëîãèé IT (â òîì ÷èñëå, è îäíîé èç ñàìûõ ïðîäâèíóòûõ – VPN) è äîñêîíàëüíîì çíàíèè äåéñòâóþùèõ çàêîíîâ (ïîñòîÿííûé ìîíèòîðèíã èçìåíåíèé çàêîíîäàòåëüñòâà ÷åðåç ñèñòåìó &quot;Êîíñóëüòàíò+&quot;) <a href="buh_services/buh_services.html">&#187;&#187;&#187; </a></div></td>
+            <td bgcolor="#ffffff">&nbsp;</td>
+            <td>&nbsp;</td>
+          </tr>
+          <tr>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td bgcolor="#FFFFFF" valign="bottom"><img src="pig/n_left2.gif" width="11" height="10"></td>
+            <td bgcolor="#FFFFFF">&nbsp;</td>
+            <td bgcolor="#FFFFFF" valign="bottom"><img src="pig/n_right2.gif" width="11" height="10"></td>
+            <td>&nbsp;</td>
+          </tr>
+          <tr>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+          </tr>
+          <tr>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+                        <td width="11" valign="top" bgcolor="#ffffff"><img src="pig/n_left.gif" width="11" height="10"></td>
+            <td width="307" bgcolor="#FFFFFF"><h1>ÁÓÕÃÀËÒÅÐÑÊÎÅ ÎÁÑËÓÆÈÂÀÍÈÅ</h1></td>
+            <td width="11" valign="top" bgcolor="#ffffff"><img src="pig/n_right.gif" width="11" height="10"></td>
+
+            <td>&nbsp;</td>
+          </tr>
+          <tr>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td bgcolor="#ffffff" height="102">&nbsp;</td>
+            <td valign="top" bgcolor="#ffffff"><div align="justify">Ïåðåäà÷à âñåõ ôóíêöèé ãëàâíîãî áóõãàëòåðà ñïåöèàëèñòó ñòîðîííåé ôèðìû, êîòîðûé óäàëåííî áóäåò êîíòðîëèðîâàòü íå òîëüêî ñâîåâðåìåííîñòü è ïðàâèëüíîñòü âåäåíèÿ áóõãàëòåðèè, íî è âñå ñîïóòñòâóþùèå ýòîìó âîïðîñó àñïåêòû <a href="buh_services/buh_services.html">&#187;&#187;&#187; </a></div></td>
+            <td bgcolor="#ffffff">&nbsp;</td>
+            <td>&nbsp;</td>
+          </tr>
+          <tr>
+            <td>&nbsp;</td>
+            <td bgcolor="#FFFFFF" valign="bottom"><img src="pig/n_left2.gif" width="11" height="10"></td>
+            <td bgcolor="#FFFFFF">&nbsp;</td>
+            <td align="right" valign="bottom" bgcolor="#FFFFFF"><img src="pig/n_right2.gif" width="11" height="10"></td>
+            <td>&nbsp;</td>
+            <td bgcolor="#FFFFFF" valign="bottom"><img src="pig/n_left2.gif" width="11" height="10"></td>
+            <td bgcolor="#FFFFFF">&nbsp;</td>
+            <td bgcolor="#FFFFFF" valign="bottom"><img src="pig/n_right2.gif" width="11" height="10"></td>
+            <td>&nbsp;</td>
+            <td bgcolor="#FFFFFF" valign="bottom"><img src="pig/n_left2.gif" width="11" height="10"></td>
+            <td bgcolor="#FFFFFF">&nbsp;</td>
+            <td bgcolor="#FFFFFF" valign="bottom"><img src="pig/n_right2.gif" width="11" height="10"></td>
+            <td>&nbsp;</td>
+          </tr>
+
+        </table>
+          </td>
+        </tr>
+    <tr height="7">
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+      </tr></table></td>
+  </tr>
+  <tr bgcolor="#f7f7f8">
+    <td height="40">&nbsp;</td>
+  </tr>
+  <tr bgcolor="#f7f7f8">
+    <td><table width="98%" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td width="32%" height="117" valign="top" class="smk"><a href="buh_services/buh_services.html" class="mail">Áóõãàëòåðñêèå óñëóãè â Ìîñêâå:</a><br>
+&#187; <a href="buh_services/buh_services.html"class="smk">âåäåíèå áóõãàëòåðñêîãî ó÷åòà ÎÎÎ</a><br>
+&#187; <a href="buh_services/buh_services.html"class="smk">âåäåíèå áóõãàëòåðñêîãî ó÷åòà ÈÏ</a><br>
+&#187; <a href="buh_services/buh_services.html"class="smk">âåäåíèå áóõãàëòåðñêîãî ó÷åòà<br>&nbsp;&nbsp;       òðàíñïîðòíî-ýêñïåäèòîðñêèõ<br>&nbsp;&nbsp;  è òðàíñïîðòíûõ êîìïàíèé</a><br>
+&#187; <a href="news/news.html"class="smk">íîâîñòè áóõãàëòåðñêîãî ó÷åòà</a><br></td>
+     <td width="23%" valign="top" class="smk"><a href="legal_services/legal_services.html" class="mail">Þðèäè÷åñêèå óñëóãè:</a><br>
+&#187; <a href="legal_services/legal_services1.html" class="smk">ðåãèñòðàöèÿ ÎÎÎ</a><br>
+&#187; <a href="legal_services/legal_services2.html" class="smk">ðåãèñòðàöèÿ ÎÀÎ</a><br>
+&#187; <a href="legal_services/legal_services3.html" class="smk">ðåãèñòðàöèÿ ÇÀÎ</a><br>
+&#187; <a href="legal_services/legal_services4.html" class="smk">ðåãèñòðàöèÿ ÈÏ</a><br>
+&#187; <a href="legal_services/legal_services5.html" class="smk">ëèêâèäàöèÿ îðãàíèçàöèè</a><br>
+&#187; <a href="legal_services/legal_services6.html" class="smk">ãîòîâûå ôèðìû</a><br>
+&#187; <a href="legal_services/legal_services7.html"class="smk">âíåñåíèå èçìåíåíèé 
+</a></td>
+<td width="26%" valign="top" class="smk"><a href="reclama/reclama.html" class="mail">Ñêèäêè è Àêöèè:</a><br>
+&#187; <a href="reclama/reclama.html"class="smk">ñêèäêà íà áóõãàëòåðñêèå óñëóãè</a><br>
+&#187; <a href="reclama/reclama.html"class="smk">ñêèäêè íà þðèäè÷åñêèå óñëóãè</a><br>
+<br></td>
+
+<td width="19%" valign="top" class="smk"><a href="company/company.html" class="mail">Àêñèîìà Áóõó÷åòà:</a><br>
+&#187; <a href="consultations/consultations.html"class="smk">êîíñóëüòàöèÿ áóõãàëòåðà</a><br>
+&#187; <a href="calendar_accountant/calendar_accountant.html" class="smk">êàëåíäàðü áóõãàëòåðà 2019</a><br>
+&#187; <a href="402_fz/402_fz.html"class="smk">ÔÇ Î áóõãàëòåðñêîì ó÷åòå</a><br>
+&#187; <a href="accounting_software/accounting_software.html"class="smk">áóõãàëòåðñêèå ïðîãðàììû</a><br>
+&#187; <a href="company/contakt.html"class="smk">êîíòàêòû</a><br>
+&#187; <a href="company/sitemap.html"class="smk">êàðòà ñàéòà</a><br>
+
+</td>
+  </tr>
+</table></td>
+  </tr>
+  <tr bgcolor="#f7f7f8">
+    <td height="84"><table width="98%" border="0" align="center" cellpadding="0" cellspacing="0">
+
+      <tr>
+        <td colspan="3" class="mail"><hr width="100%" size="1" align="center" color="#838080" noshade="noshade"></td>
+        </tr>
+      <tr>
+        <td width="26%" height="100">© <a href="http://xn----7sbabeyrptt5atla3a7a.xn--p1ai/" class="mail">2020 Àêñèîìà Áóõó÷åòà</a><br>
+		<a href="privacy_policy.pdf" target="_blank" class="first">Ïîëèòèêà êîíôèäåíöèàëüíîñòè</a></td>
+        <td width="74%"><p align="right" class="mail">127566, ã. Ìîñêâà<br>
+          Âûñîêîâîëüòíûé ïðîåçä, ä.13 à<br><span class="tel">òåë. +7 (499) 641-02-72<br>+7 (499) 136-43-35</span></p></td>
+        </tr>
+    </table></td>
+  </tr>
+  <tr>
+    <td><br><table width="980"  border="0" align="center" cellpadding="0" cellspacing="0">
+<tr>
+<td width="15 %" height="40" align="center" valign="bottom">&nbsp;
+  <p align="left"><a href="katalog/all_katalog.html" class="m1">áóõãàëòåð</a></p></td>
+<td width="15 %" valign="bottom">&nbsp;
+  <div align="center">
+    <!-- Yandex.Metrika informer -->
+    <a href="https://metrika.yandex.ru/stat/?id=25084454&amp;from=informer"
+target="_blank" rel="nofollow"><img src="//bs.yandex.ru/informer/25084454/3_0_E0E0E0FF_C0C0C0FF_0_pageviews"
+style="width:88px; height:31px; border:0;" alt="ßíäåêñ.Ìåòðèêà" title="ßíäåêñ.Ìåòðèêà: äàííûå çà ñåãîäíÿ (ïðîñìîòðû, âèçèòû è óíèêàëüíûå ïîñåòèòåëè)" onClick="try{Ya.Metrika.informer({i:this,id:25084454,lang:'ru'});return false}catch(e){}"/></a>
+    <!-- /Yandex.Metrika informer -->
+    
+    <!-- Yandex.Metrika counter -->
+    <script type="text/javascript">
+(function (d, w, c) {
+    (w[c] = w[c] || []).push(function() {
+        try {
+            w.yaCounter25084454 = new Ya.Metrika({id:25084454,
+                    webvisor:true,
+                    clickmap:true,
+                    trackLinks:true,
+                    accurateTrackBounce:true});
+        } catch(e) { }
+    });
+
+    var n = d.getElementsByTagName("script")[0],
+        s = d.createElement("script"),
+        f = function () { n.parentNode.insertBefore(s, n); };
+    s.type = "text/javascript";
+    s.async = true;
+    s.src = (d.location.protocol == "https:" ? "https:" : "http:") + "//mc.yandex.ru/metrika/watch.js";
+
+    if (w.opera == "[object Opera]") {
+        d.addEventListener("DOMContentLoaded", f, false);
+    } else { f(); }
+})(document, window, "yandex_metrika_callbacks");
+  </script>
+    <noscript>
+      </noscript>
+  </div>
+  <noscript>
+  <div><img src="//mc.yandex.ru/watch/25084454" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter --></td>
+
+<td width="15 %" valign="bottom"><!-- begin of Top100 code -->
+
+  <div align="center">
+    <script id="top100Counter" type="text/javascript" src="http://counter.rambler.ru/top100.jcn?3025245"></script>
+    <noscript>
+    <a href="http://top100.rambler.ru/navi/3025245/">
+    <img src="http://counter.rambler.ru/top100.cnt?3025245" alt="Rambler's Top100" border="0" />    </a>
+    </noscript>
+  </div>
+  <!-- end of Top100 code --></td>
+  
+<td width="15 %" valign="bottom"><!-- Rating@Mail.ru logo -->
+  <div align="center"><a href="http://top.mail.ru/jump?from=2523513" target="_blank"><img src="//top-fwz1.mail.ru/counter?id=2523513;t=487;l=1" 
+style="border:0;" height="31" width="88" alt="Ðåéòèíã@Mail.ru" /></a> </div>
+  <!-- //Rating@Mail.ru logo --></td>
+</tr>
+</table>
+<br></td>
+  </tr>
+</table>
+</body>
+</html>

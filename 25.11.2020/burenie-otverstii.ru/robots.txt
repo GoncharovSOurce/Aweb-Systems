@@ -1,0 +1,55 @@
+User-agent: *
+
+Disallow: /*print
+Disallow: /user/
+Disallow: /favorites/
+Disallow: /cache/
+Disallow: /cgi-bin/
+Disallow: /engine/
+Disallow: /language/
+Disallow: /templates/
+Disallow: /uploads/
+Disallow: /backup/
+Disallow: /autobackup.php
+Disallow: /admin.php
+Disallow: /?do=lastcomments
+Disallow: /statistics.html
+Disallow: /index.php?do=pm
+Disallow: /index.php?do=search
+Disallow: /index.php?do=register
+Disallow: /index.php?do=feedback
+Disallow: /index.php?do=lostpassword
+Disallow: /index.php?do=stats
+Disallow: /index.php?do=addnews
+Disallow: /index.php?subaction=newposts
+Disallow: /rss.xml
+Allow: /templates/Counstruct-City/images/favicon.ico
+
+User-agent: Yandex
+
+Disallow: /*print
+Disallow: /user/
+Disallow: /favorites/
+Disallow: /cache/
+Disallow: /cgi-bin/
+Disallow: /engine/
+Disallow: /language/
+Disallow: /templates/
+Disallow: /uploads/
+Disallow: /backup/
+Disallow: /autobackup.php
+Disallow: /admin.php
+Disallow: /?do=lastcomments
+Disallow: /statistics.html
+Disallow: /index.php?do=pm
+Disallow: /index.php?do=search
+Disallow: /index.php?do=register
+Disallow: /index.php?do=feedback
+Disallow: /index.php?do=lostpassword
+Disallow: /index.php?do=stats
+Disallow: /index.php?do=addnews
+Disallow: /index.php?subaction=newposts
+Disallow: /rss.xml
+Allow: /templates/Counstruct-City/images/favicon.ico
+
+Sitemap: https://burenie-otverstii.ru/sitemap.xml
